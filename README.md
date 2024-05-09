@@ -6,7 +6,7 @@ A simple Customer Relationship Management (CRM) application built using Flask.
 
 1. [Description](#description)
 2. [Features](#features)
-3. [Tech Stack](#techStack)
+3. [Tech Stack](#techstack)
 4. [Dependencies](#dependencies)
 5. [Screenshots](#screenshots)
 6. [Installation](#installation)
