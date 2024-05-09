@@ -23,7 +23,7 @@ This Flask application provides basic functionalities for managing customers and
 - **Communication Log**: Add communication logs for each customer.
 - **Reminder Frequency**: Set reminder frequency for customers.
 
-## Tech Stack
+## TechStack
 
 - **Backend Framework**: Flask
 - **Database**: SQLite
