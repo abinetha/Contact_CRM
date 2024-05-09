@@ -39,25 +39,45 @@ This Flask application provides basic functionalities for managing customers and
 
 ## Screenshots
 
-[![add-comm](https://i.postimg.cc/Jt1yXYfF/add-comm.png)](https://postimg.cc/Jt1yXYfF)
-
-[![add-cust](https://i.postimg.cc/xkMkvwjw/add-cust.png)](https://postimg.cc/xkMkvwjw)
-
-[![crm](https://i.postimg.cc/zyLHBLsX/crm.png)](https://postimg.cc/zyLHBLsX)
-
-[![cust-info](https://i.postimg.cc/4mxhD2wc/cust-info.png)](https://postimg.cc/4mxhD2wc)
-
-[![delete-cust](https://i.postimg.cc/RNScMZCN/delete-cust.png)](https://postimg.cc/RNScMZCN)
-
-[![invalid-login-handling](https://i.postimg.cc/yghZHwwm/invalid-login-handling.png)](https://postimg.cc/yghZHwwm)
-
-[![login-email-pass-check-database](https://i.postimg.cc/bDRsM1tL/login-email-pass-check-database.png)](https://postimg.cc/bDRsM1tL)
+**Register:**
 
 [![register](https://i.postimg.cc/7bV2Qr1D/register.png)](https://postimg.cc/7bV2Qr1D)
 
-[![update-cust](https://i.postimg.cc/9479x4bN/update-cust.png)](https://postimg.cc/9479x4bN)
+**Invalid Login Handling:**
+
+[![invalid-login-handling](https://i.postimg.cc/yghZHwwm/invalid-login-handling.png)](https://postimg.cc/yghZHwwm)
+
+**Login Email & Password Check in Database:**
+
+[![login-email-pass-check-database](https://i.postimg.cc/bDRsM1tL/login-email-pass-check-database.png)](https://postimg.cc/bDRsM1tL)
+
+**Valid Login:**
 
 [![valid-login](https://i.postimg.cc/9zV9pQ7J/valid-login.png)](https://postimg.cc/9zV9pQ7J)
+
+**Add customer:**
+
+[![add-cust](https://i.postimg.cc/xkMkvwjw/add-cust.png)](https://postimg.cc/xkMkvwjw)
+
+**Add communication:**
+
+[![add-comm](https://i.postimg.cc/Jt1yXYfF/add-comm.png)](https://postimg.cc/Jt1yXYfF)
+
+**After deleting the customer with ID 1, it is removed from the customer information:**
+
+[![delete-cust](https://i.postimg.cc/RNScMZCN/delete-cust.png)](https://postimg.cc/RNScMZCN)
+
+**Customer Info:**
+
+[![cust-info](https://i.postimg.cc/4mxhD2wc/cust-info.png)](https://postimg.cc/4mxhD2wc)
+
+**View CRM:**
+
+[![crm](https://i.postimg.cc/zyLHBLsX/crm.png)](https://postimg.cc/zyLHBLsX)
+
+**Update customer:**
+
+[![update-cust](https://i.postimg.cc/9479x4bN/update-cust.png)](https://postimg.cc/9479x4bN)
 
 
 ## Installation
