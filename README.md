@@ -39,25 +39,26 @@ This Flask application provides basic functionalities for managing customers and
 
 ## Screenshots
 
-[url=https://postimg.cc/Jt1yXYfF][img]https://i.postimg.cc/Jt1yXYfF/add-comm.png[/img][/url]
+[![add-comm](https://i.postimg.cc/Jt1yXYfF/add-comm.png)](https://postimg.cc/Jt1yXYfF)
 
-[url=https://postimg.cc/xkMkvwjw][img]https://i.postimg.cc/xkMkvwjw/add-cust.png[/img][/url]
+[![add-cust](https://i.postimg.cc/xkMkvwjw/add-cust.png)](https://postimg.cc/xkMkvwjw)
 
-[url=https://postimg.cc/zyLHBLsX][img]https://i.postimg.cc/zyLHBLsX/crm.png[/img][/url]
+[![crm](https://i.postimg.cc/zyLHBLsX/crm.png)](https://postimg.cc/zyLHBLsX)
 
-[url=https://postimg.cc/4mxhD2wc][img]https://i.postimg.cc/4mxhD2wc/cust-info.png[/img][/url]
+[![cust-info](https://i.postimg.cc/4mxhD2wc/cust-info.png)](https://postimg.cc/4mxhD2wc)
 
-[url=https://postimg.cc/RNScMZCN][img]https://i.postimg.cc/RNScMZCN/delete-cust.png[/img][/url]
+[![delete-cust](https://i.postimg.cc/RNScMZCN/delete-cust.png)](https://postimg.cc/RNScMZCN)
 
-[url=https://postimg.cc/yghZHwwm][img]https://i.postimg.cc/yghZHwwm/invalid-login-handling.png[/img][/url]
+[![invalid-login-handling](https://i.postimg.cc/yghZHwwm/invalid-login-handling.png)](https://postimg.cc/yghZHwwm)
 
-[url=https://postimg.cc/bDRsM1tL][img]https://i.postimg.cc/bDRsM1tL/login-email-pass-check-database.png[/img][/url]
+[![login-email-pass-check-database](https://i.postimg.cc/bDRsM1tL/login-email-pass-check-database.png)](https://postimg.cc/bDRsM1tL)
 
-[url=https://postimg.cc/7bV2Qr1D][img]https://i.postimg.cc/7bV2Qr1D/register.png[/img][/url]
+[![register](https://i.postimg.cc/7bV2Qr1D/register.png)](https://postimg.cc/7bV2Qr1D)
 
-[url=https://postimg.cc/9479x4bN][img]https://i.postimg.cc/9479x4bN/update-cust.png[/img][/url]
+[![update-cust](https://i.postimg.cc/9479x4bN/update-cust.png)](https://postimg.cc/9479x4bN)
 
-[url=https://postimg.cc/9zV9pQ7J][img]https://i.postimg.cc/9zV9pQ7J/valid-login.png[/img][/url]
+[![valid-login](https://i.postimg.cc/9zV9pQ7J/valid-login.png)](https://postimg.cc/9zV9pQ7J)
+
 
 ## Installation
 
