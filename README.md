@@ -85,7 +85,7 @@ This Flask application provides basic functionalities for managing customers and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/abinetha/Contact_CRM.git
    ```
    
 2. Install dependencies:
