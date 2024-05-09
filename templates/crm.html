@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRM</title>
+</head>
+
+<body>
+    <h2>CRM for {{ customer[1] }}</h2>
+    <p><strong>Email:</strong> {{ customer[2] }}</p>
+    <p><strong>Phone:</strong> {{ customer[3] }}</p>
+    <p><strong>Address:</strong> {{ customer[4] }}</p>
+    <p><strong>GST No.:</strong> {{ customer[5] }}</p>
+    <p><strong>Reminder Frequency:</strong> {{ customer[6] }}</p>
+    <hr>
+    <h3>Communications</h3>
+    <ul>
+        {% for communication in communications %}
+        <li>{{ communication[2] }} - {{ communication[3] }}</li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>
